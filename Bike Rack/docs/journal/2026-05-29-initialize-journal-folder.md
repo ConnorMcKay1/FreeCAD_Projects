@@ -8,9 +8,9 @@ Build a proprietary bolt on bike rack system for my Thule WingBar Evo roof cross
 
 ## Problems Identified
 
-- Excessive flex
-- Weak constraint region
-- High stress concentration
+- Compount/Union/Fusion of parts for FEA
+- Lack of knowledge on FreeCAD Python Scripting
+- Sourcing materials that are compatible with exposure to outdoor elements
 
 ---
 
