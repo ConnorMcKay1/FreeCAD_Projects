@@ -10,6 +10,6 @@ Now I know that that tolerences are incorporated into realistic models, I feel I
 ---
 
 <p align="center">
-  <img src="../images/BikeRack_Assembly002.png" width="700">
+  <img src="../images/renders/BikeRack_Assembly002.png" width="700">
 </p>
 
