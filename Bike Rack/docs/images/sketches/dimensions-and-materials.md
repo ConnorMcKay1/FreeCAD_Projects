@@ -35,19 +35,19 @@ https://www.thule.com/-/s/approved/std.lang.all/6-/01/145016_521-5016-01.pdf?rev
 									                                                            Quantity I Need:
 --BARS-- <br>
 WT/FT	Weight		Description					Long Description		Width Length <br>
-1.25  | 15.00  | 3 X 1-1/2 X 1/8 ALUM RECT 12' | .125" WALL GRADE 6061  | 12.00	                 		1!	<br>
+1.25  | 15.00  | 3 X 1-1/2 X 1/8 ALUM RECT 12' | .125" WALL GRADE 6061  | 12.00	&emsp;&emsp;&emsp;&emsp;1!	<br>
   ->https://metals.shopjfi.com/catalog.aspx?d=Tube%26Pipe&c=Aluminum&s=RectTube
 
 --Tbolts-- <br>
-.25 inch diameter, < 3/4" head, (5mm head thickness) CAN'T FIND TBOLTS FOR SOME REASON					6!  <br>
+.25 inch diameter, < 3/4" head, (5mm head thickness) CAN'T FIND TBOLTS FOR SOME REASON &emsp;&emsp;&emsp;6!  <br>
   ->https://metals.shopjfi.com/catalog.aspx?d=Tube%26Pipe&c=Aluminum&s=RectTube
 									       
 --Washer-- <br>
-Hillman 1/8-in Zinc-plated Standard Flat Washer															6!  <br>
+Hillman 1/8-in Zinc-plated Standard Flat Washer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;6!  <br>
   ->https://www.lowes.com/pd/Hillman-1-8-in-Zinc-plated-Standard-Flat-Washer-100-Count/4409987   		
 
 --Nuts-- <br>
-Stainless Hex Nut (1"-8) 																				6!	<br>
+Stainless Hex Nut (1"-8) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;6!	<br>
   ->https://www.homedepot.com/p/Hillman-Stainless-Hex-Nut-1-8-43747/204775312  <br>
 
 --Ubolts-- <br>
