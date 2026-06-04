@@ -34,7 +34,7 @@ https://www.thule.com/-/s/approved/std.lang.all/6-/01/145016_521-5016-01.pdf?rev
 
 									                                                            Quantity I Need:
 --BARS-- <br>
-WT/FT   Weight   Description     	              Long Description      Width Length <br>
+WT/FT	Weight		Description					Long Description		Width Length <br>
 1.25  | 15.00  | 3 X 1-1/2 X 1/8 ALUM RECT 12' | .125" WALL GRADE 6061  | 12.00	                 		1!	<br>
   ->https://metals.shopjfi.com/catalog.aspx?d=Tube%26Pipe&c=Aluminum&s=RectTube
 
@@ -42,7 +42,7 @@ WT/FT   Weight   Description     	              Long Description      Width Leng
 .25 inch diameter, < 3/4" head, (5mm head thickness) CAN'T FIND TBOLTS FOR SOME REASON					6!  <br>
   ->https://metals.shopjfi.com/catalog.aspx?d=Tube%26Pipe&c=Aluminum&s=RectTube
 									       
---Washers--	<br>						       
+--Washer-- <br>
 Hillman 1/8-in Zinc-plated Standard Flat Washer															6!  <br>
   ->https://www.lowes.com/pd/Hillman-1-8-in-Zinc-plated-Standard-Flat-Washer-100-Count/4409987   		
 
