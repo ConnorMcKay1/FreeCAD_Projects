@@ -2,7 +2,7 @@
 
 ## Information about Cross Bars and Materials Needed
 
-
+<p>
                             FOR Thule WingBar Evo 2016 Jetta
 [T-Bolt Dimensions]
 https://images.etrailer.com/static/images/pics/q/u/qu104191_800.jpg
@@ -42,7 +42,7 @@ WT/FT   Weight   Description     	              Long Description      Width Leng
 .25 inch diameter, < 3/4" head, (5mm head thickness) CAN'T FIND TBOLTS FOR SOME REASON           6! 
   ->https://metals.shopjfi.com/catalog.aspx?d=Tube%26Pipe&c=Aluminum&s=RectTube
 									       
-	--Washers--							       
+--Washers--							       
 Hillman 1/8-in Zinc-plated Standard Flat Washer					        
   ->https://www.lowes.com/pd/Hillman-1-8-in-Zinc-plated-Standard-Flat-Washer-100-Count/4409987   6!
 
@@ -56,3 +56,4 @@ Stainless Hex Nut (1"-8)
 
 
 ***End of Document***
+</p>
