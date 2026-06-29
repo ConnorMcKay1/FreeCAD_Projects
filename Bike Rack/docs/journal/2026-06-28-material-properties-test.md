@@ -49,6 +49,7 @@ The reason for wanting to gain a greater understanding of this is because it cou
 With only 3 parts, 3 materials, and 2 constraints (fixed & force), this should be a relatively simple model to run analysis on. Certain problems that have arisen are jacobena value <= 0 (Gmsh), tetrahedron = 0 (Netgen), and general FEA workflow troubles.
 
 
+
 Bellow is from CalculiX trying to run, but instead throwing a related error to getting elements for solving.
 21:19:27  
 21:19:27  Check prerequisites...
