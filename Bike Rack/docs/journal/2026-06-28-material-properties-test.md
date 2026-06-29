@@ -107,6 +107,10 @@ Bellow is from CalculiX trying to run, but instead throwing a related error to g
 ---
 
 <p align="center">
+  <img src="../images/renders/materialsTest-assemblyGIF-quality.gif" width="700">
+</p>
+
+<p align="center">
   <img src="../images/renders/materialsTest.png" width="700">
 </p>
 
